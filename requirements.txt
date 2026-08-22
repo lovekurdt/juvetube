@@ -1,4 +1,4 @@
 Flask==3.1.1
 gunicorn==23.0.0
-youtube-transcript-api==1.2.2
+youtube-transcript-api==1.2.4
 requests==2.32.3
